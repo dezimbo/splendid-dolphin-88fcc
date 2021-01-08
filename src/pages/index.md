@@ -82,15 +82,5 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    testimonials:
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: lorem-ipsum
-        type: testimonial
-    type: section_testimonials
 template: advanced
 ---
