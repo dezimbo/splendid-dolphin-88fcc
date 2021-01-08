@@ -99,5 +99,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: images/11.jpg
 template: advanced
 ---
