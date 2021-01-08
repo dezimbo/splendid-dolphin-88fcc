@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: ''
     content: >-
       ## Lorem ipsum
 
