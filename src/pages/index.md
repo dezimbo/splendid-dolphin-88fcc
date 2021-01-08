@@ -15,14 +15,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: button
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     type: section_hero
   - section_id: hero
     type: section_hero
